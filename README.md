@@ -2,7 +2,9 @@
 
 VisitorsBook api is a rest api build using FastAPI and postgreSQL. 
 API has multiple endpoints
+
 Endpoints: 
+
     - Register
     - Activate
     - Write a message
@@ -14,7 +16,7 @@ Endpoints:
     - Viewing upvoted messages
 
 
-A database using postgresql library psycopg2 is created to store the data. Database is created and stored on railway app. 
+A database using postgresql (psycopg2) is created to store the data. Database is created and stored on railway app. 
 
 HTTP authentication system is  used before user can perform any operation. Users receive an authentication token on their emails to activate the account. 
 
