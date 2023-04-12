@@ -19,6 +19,6 @@ A database using postgresql library psycopg2 is created to store the data. Datab
 HTTP authentication system is  used before user can perform any operation. Users receive an authentication token on their emails to activate the account. 
 
 
-![img](https://github.com/Siddharthbadal/VisitorsBook-API/blob/main/images/visitorbookapi.png)
+![img](https://raw.githubusercontent.com/Siddharthbadal/VisitorsBook-API/main/images/visitorbook.png)
 
 
