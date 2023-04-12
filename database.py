@@ -27,7 +27,7 @@ class Database:
         self.conn = None
         self.cursor = None
 
-
+    #
     @staticmethod
     def _compose_kv_and(separator=" AND ", kv_pairs=None):
         return sql.SQL(separator).join(
